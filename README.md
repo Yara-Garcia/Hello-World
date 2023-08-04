@@ -1,2 +1,2 @@
 # primeiro-repo
-Meu primeiro repositório
+Meu primeiro repositório para testes e aprendizado
