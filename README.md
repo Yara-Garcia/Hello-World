@@ -1,2 +1,2 @@
-# primeiro-repo
-Meu primeiro repositório para testes e aprendizado
+# Hello-World
+Código simples desenvolvido em JavaScript
